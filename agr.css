@@ -401,3 +401,20 @@ margin-top: 400px;
   color: white;
   font-size: 14px;
 }
+.logo{
+
+  background-color: paleturquoise;
+  padding: 1px 10px;
+  font-size: 20px;
+  border-radius: 10px;
+  color: #204E51;
+
+}
+.lop{
+  padding: 1px 10px;
+  background-color: #204e52;
+  font-size: 20px;
+  border-radius: 10px;
+  color:white;
+
+}
